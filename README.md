@@ -1,16 +1,16 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Nombre Completo **Karol Jasbleidy Cuervo Muñoz**
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 302 639 5069
+- **Email:** [kjcuervomunoz13@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
+### **Manufacturas Eliot** _(2024 - Actualidad)_
 - Puesto ocupado y descripción breve.
 
 ### **Empresa ABC** _(2018 - 2020)_
