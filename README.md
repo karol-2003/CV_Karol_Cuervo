@@ -1,29 +1,29 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo **Karol Jasbleidy Cuervo Muñoz**
-**Profesión:** _Tu profesión_
+## Nombre Completo: **Karol Jasbleidy Cuervo Muñoz**
+**Profesión:** _operario en logistica_
 
 ## 📞 Contacto
 - **Teléfono:** +57 302 639 5069
 - **Email:** [kjcuervomunoz13@gmail.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [https://www.linkedin.com/in/karol-j-cuervo-mu%C3%B1oz-03b9a6355/](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
 ### **Manufacturas Eliot** _(2024 - Actualidad)_
-- Puesto ocupado y descripción breve.
+- operario en logistica
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Exito** _(2023 - 2024)_
+- auxiliar puesto de pago
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Sena** _(2024 - 2026)_
+- Tecnico auxiliar operario en logistica.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Responsable**
+- **Ordenada**
+- **Colaboradora**
 
 ---
 
