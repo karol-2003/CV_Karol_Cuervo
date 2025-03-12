@@ -1,7 +1,9 @@
 # CV Karol Cuervo
 # Hoja de Vida
 
-## Nombre Completo: **Karol Jasbleidy Cuervo Muñoz**
+ **Karol Jasbleidy Cuervo Muñoz**
+
+**Soy un estudiante del programa de Integración en Operaciones Logísticas con un sólido conocimiento en atención al cliente, manejo de dinero y resolución de problemas. A lo largo de mi formación, he desarrollado habilidades clave para gestionar de manera eficiente las relaciones con los clientes, optimizando su experiencia y garantizando la satisfacción. Mi capacidad para resolver problemas rápidamente y adaptarme a situaciones cambiantes me permite ofrecer soluciones efectivas tanto en entornos de servicio al cliente como en la logística**
 **Profesión:** _operario en logistica_
 
 ## 📞 Contacto
@@ -21,10 +23,11 @@
 - Tecnico auxiliar operario en logistica.
 
 ## 💡 Habilidades
-- **Responsable**
-- **Ordenada**
-- **Colaboradora**
-
+- **Atención al Cliente: Comunicación clara y efectiva, empatía, resolución de inquietudes y manejo de quejas de manera profesional**
+- **Manejo de Dinero: Experiencia en la gestión de transacciones y control de efectivo con precisión y responsabilidad.**
+- **Manejo de Dinero: Experiencia en la gestión de transacciones y control de efectivo con precisión y responsabilidad.**
+- **Trabajo en Equipo: Colaboración eficaz con otros departamentos y equipos de trabajo para alcanzar objetivos comunes.**
+- **Organización y Gestión del Tiempo: Habilidad para priorizar tareas y cumplir con plazos en entornos dinámicos.**
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
