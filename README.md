@@ -5,7 +5,7 @@
 **Profesión:** _operario en logistica_
 
 ## 📞 Contacto
-- **Teléfono:** +57 302 639 5069
+
 - **Email:** [kjcuervomunoz13@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [https://www.linkedin.com/in/karol-j-cuervo-mu%C3%B1oz-03b9a6355/](https://linkedin.com/in/tuusuario)
 
